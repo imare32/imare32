@@ -6,6 +6,8 @@
 
 *用代码生成美 —— 专注于 Manim 动画与创意编程*
 
+🌱 **Currently Learning:** 计算机动画与数学可视化
+
 ---
 
 ### 🛠️ Tech Stack
