@@ -24,24 +24,6 @@
 
 **manim-lace** —— 基于 Manim 的蕾丝图案生成项目，用数学与动画编织视觉之美。
 
----
-
-### 📊 GitHub Stats
-
-![imare32's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imare32&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imare32&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-### 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=imare32&theme=tokyonight&column=7&no-frame=true&no-bg=true)
-
----
-
-<img src="https://komarev.com/ghpvc/?username=imare32&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-
 </div>
 
 <!--
