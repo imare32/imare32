@@ -26,6 +26,8 @@
 
 **manim-lace** —— 基于 Manim 的蕾丝图案生成项目，用数学与动画编织视觉之美。
 
+> *"Mathematics is the art of giving the same name to different things."* — Henri Poincaré
+
 </div>
 
 <!--
