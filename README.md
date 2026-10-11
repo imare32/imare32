@@ -8,6 +8,8 @@
 
 🌱 **Currently Learning:** 计算机动画与数学可视化
 
+⚡ **Fun fact:** 我相信最美的公式也值得被动画演绎
+
 ---
 
 ### 🛠️ Tech Stack
